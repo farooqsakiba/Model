@@ -1,6 +1,0 @@
-# Model
-# This is Streamlit Model Developed by sakiba
-streamlit
-joblib
-numpy
-scikit-learn
